@@ -1,0 +1,30 @@
+suja
+[u, d, d, i, n]
+ripon
+[h, e, l, l, o]
+suja uddin
+[s, u, j, a,  , u, d, d, i, n]
+sabuj
+[s, a, b, u, j]
+sabuj
+[m, u, h, i, t]
+sabuj
+[s, u, j, a]
+shafiqul anik
+[a, b, c]
+mehdi
+[m, e, h, d, i]
+a
+[b]
+x
+[y]
+sakib al hasan
+[m, i, n, e]
+anik
+[a, n, i, k]
+anik2
+[a, n, i, k, 2]
+suja
+[s, u, j, a]
+ripon
+[r, i, p, o, n]
